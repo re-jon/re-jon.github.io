@@ -7,11 +7,11 @@
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="DH-RJ-Test" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://localhost:4000/re-jon.github.io" />
+<meta property="og:url" content="http://localhost:4000/re-jon.github.io" />
 <meta property="og:site_name" content="DH-RJ-Test" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"http://localhost:4000/","headline":"DH-RJ-Test","name":"DH-RJ-Test","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/re-jon.github.io","headline":"DH-RJ-Test","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="DH-RJ-Test" /></head>
 <body><header class="site-header" role="banner">
@@ -31,16 +31,26 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home">
-<h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Mar 30, 2019</span>
-        <h3>
-          <a class="post-link" href="/jekyll/update/2019/03/30/welcome-to-jekyll.html">
-            Welcome to Nervstestproject!
-          </a>
-        </h3></li></ul>
+        <style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
 
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
 
       </div>
     </main><footer class="site-footer h-card">
