@@ -1,6 +1,7 @@
 ---
 layout : post
-title : Qbis-Trial-1
+title : QGis-Trial-1
 ---
 
-![Qbis-Trial1](/img/geo-homework.png)
+![QGis-Trial1](/img/geo-homework.png)
+![QGis-Trial2](/img/QGis-2-Trial.png)
