@@ -28,20 +28,20 @@ for example for the XML-files
     
 ~~<a href="~~
 
-    **/cds/downloads/MDSConnect/BooksAll.2014.part41.xml.gz**
+    /cds/downloads/MDSConnect/BooksAll.2014.part41.xml.gz
 
  ~~">Part 41</a>~~
    
 
 b) and add http_extension of webside to each link
 
-    **http://www.loc.gov/cds/**
+    http://www.loc.gov/cds/
 
    ~~products/MDSConnect-books_all.html~~
 
 c) safe cleared links 
 
-    **http://www.loc.gov/cds/downloads/MDSConnect/BooksAll.2014.part41.xml.gz**
+    http://www.loc.gov/cds/downloads/MDSConnect/BooksAll.2014.part41.xml.gz
 
    to a **.txt file**, for example _scrap.txt_
 
