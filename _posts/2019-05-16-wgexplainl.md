@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use wget
+title: How to use Wget
 author: Regina Jonach
 ---
 
