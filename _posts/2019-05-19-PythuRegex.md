@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "Homework 8a: Acess Data with Python and Regex"
+title : "Homework 8a: Access Data with Python and Regex"
 author: Regina Jonach
 ---
 
