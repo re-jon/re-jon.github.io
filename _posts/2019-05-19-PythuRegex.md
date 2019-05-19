@@ -53,7 +53,7 @@ your plattform, the command for Python3 to be used is:   python3 gettext.py
 ![Code for "article"](/img/digi-homew2-0.JPG)
 
 11) I have used a different filename for the new file created. Apparently
-the text of the header is accessed by standard. But one can see that there
+the text of the header of the xml-file  is accessed by default.  But one can see that there
 is a slight difference in the file size.
 
 ![File size difference](/img/digi-homew2-1.JPG)
