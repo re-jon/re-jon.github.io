@@ -45,7 +45,7 @@ author: Regina Jonach
 ![Keyword "article"](/img/regex_perseus.png)
 
 
-10) For this code to be executed I used Python 3. Please not that
+10) For this code to be executed I used Python 3. Please note that
 the encoding="utf-8" - attribute only works when using Python 3 and
 that there is a dash between utf and 8. If you run two version of Python on
 your plattform, the command for Python3 to be used is:   python3 gettext.py
