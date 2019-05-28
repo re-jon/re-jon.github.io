@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_522
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; A. Bodeker &amp; Co.,;;; --Apothecaries and Druggists, No. 10 Main street, near Old Market, Richmond, Va., will keep on hand a general assortment of pure Drugs, Medicines, Chemicals, Oils, Paints, Window Glass, Putty, Dye Stuffs, Patent Medicines, Brushes of all kinds, Surgical Appliances, Burning Fluid, Alcohol, Soaps, Perfumery, Fancy Articles, Garden Seeds, Glue, Sand Paper, Tobacco, Cigars, Snuff, Medicinal Liquors, &amp;c.;;; Prescriptions prepared at all hours, with special care, by members of the firm alone.;;; Physicians' orders from the country executed promptly, and the most reliable medicine furnished.;;; 

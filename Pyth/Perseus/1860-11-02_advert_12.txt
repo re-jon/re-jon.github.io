@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_12
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; A beautiful Market Farm for Rent.;;; --On the 1st-day of January next, that beautiful market farm "Sherwood" will be for rent.;;; It lies between the Brooke turnpike and new road by the Fair Grounds, by each of which it is bounded; one mile and a quarter from the city, contains seventy-three acres. The accommodations upon it are sufficient for a small family.;;; It may be rented for one year or more.   R. B.  Haxall,  oc 29--ts Jas. Lyons.,;;; 

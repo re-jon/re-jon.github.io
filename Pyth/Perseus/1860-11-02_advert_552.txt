@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_552
+#TYPE: advert
+#HEADER: Railroads, Steamboats, &amp;c.
+#TEXT: ;;; Railroads, Steamboats, &amp;c.;;; 

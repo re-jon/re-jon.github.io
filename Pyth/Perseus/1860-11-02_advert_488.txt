@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_488
+#TYPE: advert
+#HEADER: 
+#TEXT: ;;; Business Notices;;; 

@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_443
+#TYPE: advert
+#HEADER: John Thompson,no 1, Ballard House,
+#TEXT: ;;; John Thompson,no 1, Ballard House,;;; Has on hand a select and fashionable assortment of Hats, Caps, Ladies' Furs and Gentlemen's Furnishing Goods, which he is disposed to sell at low prices.;;; I most respectfully solicit a call from purchasers.;;; oc 20--dtJ1;;; 

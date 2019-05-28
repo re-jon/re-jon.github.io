@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_403
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Dr. Z. S. McGRUDER, of Henrico, having taken an office on Franklin street, first house above Metropolitan Hall, tenders his professional services to the public.;;; jy 30--6m;;; 

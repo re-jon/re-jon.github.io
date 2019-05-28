@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_445
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Artists' and Painters' supply Store.;;; --Mr. A. Lybrock late of the firm of W. Sattler &amp; Co., I desires to inform his friends and the public generally, that he has opened the New Store, No. 233 Main street, under the Spotswood Hotel, for the sale of Paints, Oils, Glass, Varnishes Glue, and all materials for use of Painters.;;; Carriage and Furniture manufacturers, &amp;c.;;; Also, Artists' Materials, Engravings, Picture Frames, Gilt framed buildings, and everything requisite for Artists, Amateurs.;;; Architects, Engineers and Draughtsmen generally.;;; Teachers and Schools especially are invited to examine my stock of Prints for Drawing Models and Grecian Painting, which will be supplied at the lowest and most favorable rates.;;; The patronage of the public is respectfully solicited.;;; 

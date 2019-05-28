@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_487
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Cheese;;; --Goshen and English Dairy, carefully selected, for sale by;;; John N. Gordon &amp; Son.;;; 

@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_389
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; No. 1 Chocolate;;; --For sale by;;; Dove &amp; Co., wholesale Druggists.;;; 

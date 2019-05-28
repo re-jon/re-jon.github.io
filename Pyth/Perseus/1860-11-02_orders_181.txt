@@ -1,0 +1,4 @@
+#ID: 1860-11-02_orders_181
+#TYPE: orders
+#HEADER: Wants
+#TEXT: ;;; Grays, attention.;;; --Attend a regular Company Drill, at Military Hall, this (Friday) night, at 7 ½ o' clock, in jackets and dress Caps.   By order of Capt.Elliott. no 2-- E. W.  Branch, 1st Serg't.;;; Wants;;; 

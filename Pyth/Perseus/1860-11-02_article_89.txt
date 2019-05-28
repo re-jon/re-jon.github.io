@@ -1,0 +1,4 @@
+#ID: 1860-11-02_article_89
+#TYPE: article
+#HEADER: NO HEADER
+#TEXT: ;;; Census of Minnesota.;;; --The following is the result of the recent census in the State of Minnesota: total population 176,535; number of farms 19,095; manufacturing establishments 563; number of deaths 1,205.;;; The total area of the State is estimated at 81,259 square miles, so that the population is not much over two persons to the square mile.;;; 

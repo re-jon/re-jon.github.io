@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_228
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Bacon Shoulders, Sides, Hams;;; --and Breasts, for sale by   Wm. Wallace  Sons.;;; 

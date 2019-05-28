@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_468
+#TYPE: advert
+#HEADER: &gt;First-Class Medicines.Meade &amp; Baker,
+#TEXT: ;;; &gt;First-Class Medicines.Meade &amp; Baker,;;; Pharmaceutists and Vendors of pure and reliable Medicines, Chemicals, Pharmaceutical Products, Surgical Instruments and Appliances; Medicine Chests for plantations, families and travelers; Physicians' Saddle-Bags; London Elastic Stockings, Trusses and Supporters: Porte Monnaies, Combs, Brushes, Toilet Mirrors; first quality Perfumery, Pomades and Soaps; Mineral Waters, bottled at the Springs; Medicinal Wares and Apparatus, Magnetic Machines, &amp;c., &amp;c., all of the best quality and at the lowest rates.;;; Meade &amp; Baker,;;; 186 Main st., corner above Post-Office,;;; Richmond. Va.;;; 

@@ -1,0 +1,4 @@
+#ID: 1860-11-02_orders_178
+#TYPE: orders
+#HEADER: NO HEADER
+#TEXT: ;;; Hdqrs.;;; Gov's Mount'd Guard.Richmond, Nov. 2. 1860.;;; Order No.--;;; Members of the Governor's Mounted Guard, meet at your armory, on Saturday night, November 3d, at half past 7 o' clock, punctually, in undress uniform, with side arms, for drill and election of officers.;;; Sergeants will summon their squads.   By order of Capt. R. G. Cabell no 2--2t E. Bossieux, Serg't.;;; 

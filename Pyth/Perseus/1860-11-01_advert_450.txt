@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_450
+#TYPE: advert
+#HEADER: Music Teaching.
+#TEXT: ;;; Charles Lumsden is the man who repairs Watches, Jewelry, Clocks, Spectacles, &amp;c., in the best manner and at reasonable prices.;;; Watches and Clocks repaired and warranted.;;; Jewelry repaired in the best manner.;;; Spectacles fitted with new glasses and warranted to suit, at 96 Main street, Richmond.;;; Music Teaching.;;; 

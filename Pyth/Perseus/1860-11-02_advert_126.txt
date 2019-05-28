@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_126
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Johnson's New Illustrated.;;; Family Atlas,;;; --containing finely engraved and neatly colored Maps of every division of the Globe, with full descriptions of each country, and numerous illustrations, is now being exhibited in this city by the agent, Mr. L. W. Fairchild. The work is published by Johnson &amp; Browning at their Printing Rooms, on 10th street, and sold only by canvassers, at one price.;;; 

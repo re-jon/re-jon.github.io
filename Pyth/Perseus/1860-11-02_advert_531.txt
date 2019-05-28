@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_531
+#TYPE: advert
+#HEADER: Boots, Shoes, &amp;c.
+#TEXT: ;;; Tland;;; -- New York;;; Boots, Shoes, &amp;c.;;; 

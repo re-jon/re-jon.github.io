@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_230
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; 25 Tubs Orange County Butter;;; --For sale by    Massie &amp; Pleasants.;;; 

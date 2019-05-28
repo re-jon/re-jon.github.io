@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_512
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Andrew Antoni;;; --Wholesale and Retail Dealer in Foreign and Domestic Confectionery, Fruits, &amp;c., Importer of French Candies, Cordials, &amp;c., and Manufacturer of Double Refined Candies; also, parties and weddings, in town or country, supplied with Ornamental Confectionery, Ice Cream, Cakes, &amp;c., No. 156 Main street, next door Exchange Bank.;;; Richmond. Va.;;; 

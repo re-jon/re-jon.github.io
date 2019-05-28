@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_415
+#TYPE: advert
+#HEADER: Marble Works.
+#TEXT: ;;; Marble Works.;;; John W. Davies,;;;  Marble Mason,;;;  Mechanics' Institute, 9TH street,;;; Richmond Va.,;;; Monuments, Tombs, Head Pieces,;;; Mantles, Fonts, &amp;c.;;; First Premiums awarded by the Virginia Agricultural Society and Mechanics' Institute.;;; 

@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_250
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; The city of Richmond;;; --being about to introduce Steam Fire Engines, have on hand Three hand Fire Engines, which will be sold on reasonable terms.;;; Apply to the Principal Engineer.    oc 22--ts Lewis L. Barnes.;;; 

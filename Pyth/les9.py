@@ -2,8 +2,9 @@
 import re
 import os
 
+
 source = ("./Perseus/") 
-target = ("./Pyth/") 
+ 
 
 lof = os.listdir(source)
 counter = 0 # 
@@ -14,22 +15,23 @@ for f in lof:
             text = af.read()
 
             
-            date = re.search(r'<date value="([\d-]+)"', text)
+            date = re.search(r'<date value="([\d-]+)"', text).group(1)
 
             
             split = re.split("<div3 ", text)
 
             c = 0 
+
             for s in split[1:]:
                 c += 1
                 s = "<div3 " + s 
-    
 
                 try:
                     unitType = re.search(r'type="([^\"]+)"', s).group(1)
                 except:
-                    unitType = "None"
+                    unitType = "noType"
                     print(s)
+    
 
                 try:
                     header = re.search(r'<head>(.*)</head>', s).group(1)
@@ -57,9 +59,15 @@ for f in lof:
                 var = "\n".join([itemID,unitType,header,text])
                 
 
-                
-with open(target+fName+".txt", "w", encoding="utf8") as afe:
-    afe.write(var)
+                with open(source+fName+".txt", "w", encoding="utf8") as afe:
+                    afe.write(var)
+
+                #var1 = "\n".join([itemID,unitType,header,text])[1:]
+
+                #with open("test.txt", "w", encoding="utf8") as afe:
+                    #afe.write(var1)
+
+
 
                 
 counter += 1

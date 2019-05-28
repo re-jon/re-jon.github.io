@@ -1,0 +1,4 @@
+#ID: 1860-11-01_article_37
+#TYPE: article
+#HEADER: NO HEADER
+#TEXT: ;;; To be launched.;;; --The ship Virginia Dare will be launched in Baltimore on Saturday next.;;; Tonnage 900.;;; The vessel is intended for the line between Richmond and England.;;; 

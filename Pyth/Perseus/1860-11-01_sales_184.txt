@@ -1,0 +1,4 @@
+#ID: 1860-11-01_sales_184
+#TYPE: sales
+#HEADER: Coal.
+#TEXT: ;;; Coal.;;; --C. B. Lipscomb.;;;  (Office 14TH St., opp. Mayo's Warehouse.);;; Dealer in Midlothian, Lump, Hail and Smith's Coal.;;; Also, Red and White Ash Anthracite Coal, sold by weight.;;; au 27--3m.;;; 

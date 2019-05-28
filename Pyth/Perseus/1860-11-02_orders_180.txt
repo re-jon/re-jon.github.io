@@ -1,0 +1,4 @@
+#ID: 1860-11-02_orders_180
+#TYPE: orders
+#HEADER: NO HEADER
+#TEXT: ;;; Hdq'rs.;;; Co. "B," 1st Reg. Va. Vols.,Richmond,Nov. 2, 1860.;;; Order No.--;;; Assemble at your Armory, this (Friday) evening, at 7 ½ o' clock, for drill.   By order of Lieut.Mitchell, Com'g. no 2--1t* C. S.  Morgan, Jr. 1st Serg't.;;; 

@@ -1,0 +1,4 @@
+#ID: 1860-11-02_article_66
+#TYPE: article
+#HEADER: NO HEADER
+#TEXT: ;;; Manures purchased annually in England.;;; --Prof. Anderson gives the following estimate of the amount expended annually by the farmers of Great Britain for artificial manures:;;; Guano$12,500,000;;; Nitrate of Soda1,125,000;;; Bones1,200,000;;; Super phosphates2,100,000;;; Coprolites1,875,000;;; Sulphate of Ammonia750,000;;; Other Articles500,000;;; Total$20,950,000;;; This expenditure, coupled with improved methods of tillage, accounts for the fact that the average product of wheat in England has been raised from 8 or 9 bushels to nearly 30 bushels per acre.;;; 

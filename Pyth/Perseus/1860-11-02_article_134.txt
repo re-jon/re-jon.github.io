@@ -1,0 +1,4 @@
+#ID: 1860-11-02_article_134
+#TYPE: article
+#HEADER: City Point, Oct. 31, 1860.
+#TEXT: ;;; City Point, Oct. 31, 1860.;;; Arrived,;;;  Steamer George Peabody, Pritchard, Richmond.;;; Steamship Yorktown, Parrish, Richmond.;;; Steamship City of Richmond, Mitchell, Richmond.;;; Sailed,;;;  Steamer George Peabody, Pritchard, Baltimore.;;; Steamship Yorktown, Parrish, New York.;;; Steamship City of Richmond, Mitchell, Philadelphia.;;; Bark Petri, Sturges, Liverpool.;;; 

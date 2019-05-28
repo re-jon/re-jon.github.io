@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_363
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Coke.;;; --The prices of Carbon Hill Coke, until further notice, will be as follows:;;; Lump Coke, $6.50 per load.;;; Stove Coke, $6 per load.;;; Hail Coke, $5 per load.;;; oc 19--ts Jno. J. Werth.;;; Agent.;;; 

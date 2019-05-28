@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_482
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Richmond and Danville Railroad;;; --Express Freight and Accommodation Trains.--On and after Monday, Oct. 1st, an Express, Freight and Accommodation Train will leave Richmond daily (Sundays excepted,) for Lynchburg and intermediate points, leaving Richmond at 4 P. M., and arriving in Lynchburg at 3 A. M., in time to connect with the passenger train going west on the Virginia and Tennessee Railroad.;;; Returning, leave Lynchburg at 7:25 P. M., immediately on the arrival of the train from the west, and arrive in Richmond at 6:10 A. M.;;; se 29--ts C. G. Talcott, Supt.;;; 

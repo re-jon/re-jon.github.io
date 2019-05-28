@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_460
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Number fifteen;;; --No. 15, No. 15, No. 15, No. 15, No. 15, No. 15, is the number of;;; Levy's Dry Goods Store.;;; 

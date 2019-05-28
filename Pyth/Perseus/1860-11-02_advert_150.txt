@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_150
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; 200 bbls.;;; --No. 3 Medium MacKERELerel, for sale by Wm. Wallace Sons.;;; 

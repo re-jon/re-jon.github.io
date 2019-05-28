@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_26
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; the Annual Meeting of Stockholders of the White Sulphur Springs Company will take place at the Exchange Hotel, Richmond, Wednesday, 7th November, 1860.;;; oc 15--td E. Warren, Sec'y.;;; 

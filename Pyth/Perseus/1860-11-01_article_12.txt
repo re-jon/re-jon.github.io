@@ -1,0 +1,4 @@
+#ID: 1860-11-01_article_12
+#TYPE: article
+#HEADER: NO HEADER
+#TEXT: ;;; The Meteorological Congress.;;; --The departure of Lt. Maury for England, has been announced.;;; M. Quetelet, the perpetual secretary of the French Academy, says that the enterprise proposed by the United States, under the direction of Lieut. Maury, of a Meteorological Congress, will be accomplished on a large scale.;;; Very distinguished men are disposed to attend.;;; He is about to visit England on account of it. The general Congress of Vienna has charged him with the duty of making up a general programme for meteorological observations all over the globe.;;; Unity of views is necessary in these observations.;;; Thirty nations have assented to it, and several are already at work.;;; Science has thus accomplished a confederation of nations which politics has attempted in vain.;;; 

@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_103
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; For Rent;;; --A House on 7th street, between Cary and Canal, suitable for a factory or work shop.;;; Apply to;;; no 1--ts J. H. Poindexter.;;; 

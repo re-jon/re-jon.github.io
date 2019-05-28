@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_448
+#TYPE: advert
+#HEADER: Dime Hotel,on the European planno. 84 Main street,Richmond, Va.
+#TEXT: ;;; Dime Hotel,on the European planno. 84 Main street,Richmond, Va.;;; The Dime Restaurant, on Main street, near Fourteenth or Pearl, continues to be famous as the very best Restaurant in Richmond.;;; Gentlemen visiting the city on business will find this house very conveniently located and comfortably arranged with lodging-rooms, by the day, week or month.;;; single Rooms, 50 cents per day.;;; Meals, as they may be ordered, in the spacious and convenient refectory, at all hours.;;; Private Rooms for dinner or supper parties.;;; Gentlemen visiting this convenient establishment will only be charged for what they may order.;;; [se 24--3m]W. H. Hayward.;;; Watches, Jewelry, &amp;c.;;; 

@@ -1,0 +1,4 @@
+#ID: 1860-11-01_joke_13
+#TYPE: joke
+#HEADER: NO HEADER
+#TEXT: ;;; It is perfectly natural that when men kick the bucket they should turn pail.;;; 

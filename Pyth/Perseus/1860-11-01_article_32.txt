@@ -1,0 +1,4 @@
+#ID: 1860-11-01_article_32
+#TYPE: article
+#HEADER: NO HEADER
+#TEXT: ;;; How to examine eggs.;;; --M. Labiche, a chemist, at Louviers, has found an easy way of discovering whether eggs are sound or not. He makes a solution of chloride of sodium (common salt) of a specific gravity represented by 1,040 (water being 1,000.) If an egg, thrown into this solution, sinks to the bottom, it is fresh enough to be boiled in the shell; it does not sink quite to the bottom, it is still fit to be eaten, but not under that form; and if it swims on the surface, it is decidedly spoilt.;;; 

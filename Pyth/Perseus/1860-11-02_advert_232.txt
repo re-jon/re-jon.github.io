@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_232
+#TYPE: advert
+#HEADER: Amusements.
+#TEXT: ;;; 200 boxes Brown Soap,;;; --for sale by   Wm. Wallace  Sons.;;; Amusements.;;; 

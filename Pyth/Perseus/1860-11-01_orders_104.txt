@@ -1,0 +1,4 @@
+#ID: 1860-11-01_orders_104
+#TYPE: orders
+#HEADER: NO HEADER
+#TEXT: ;;; Hdq'rs Chesterfield Lt.Dragoons, Co. "a" 23d.;;; Reg'tVirginia volunteers,Manchester, October 31st, 1860.;;; Parade in Manchester (at the Town Hall.) on Wednesday, 7th inst., at 1 o'clock P. M., fully equipped, with arms and accoutrements in order for inspection, prepared to go into encampment.;;; Each trooper will provide two blankets, two shirts, two pair socks, two towels, one curry comb and brush.;;; By rules of the encampment each six men will be allowed one servant.;;; A baggage-wagon will be furnished to carry the baggage.;;; The roll will be called punctually at the hour mentioned above it is desired that every member should be present.   By order of Capt. Cox.  no 1--td Wm. H.  Brander, Jr., 1st Serg't.;;; 

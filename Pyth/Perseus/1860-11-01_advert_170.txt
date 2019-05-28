@@ -1,0 +1,4 @@
+#ID: 1860-11-01_advert_170
+#TYPE: advert
+#HEADER: John Mellen,Commission Merchant,Cary st., below Shockoe Slip,Richmond, Va.,
+#TEXT: ;;; John Mellen,Commission Merchant,Cary st., below Shockoe Slip,Richmond, Va.,;;; Will give his attention to the purchase and sale of all kinds of Merchandize and Produce.;;; oc 26--3m;;; 

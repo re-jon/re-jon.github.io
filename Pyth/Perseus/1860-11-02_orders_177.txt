@@ -1,0 +1,4 @@
+#ID: 1860-11-02_orders_177
+#TYPE: orders
+#HEADER: NO HEADER
+#TEXT: ;;; Attention, Fayette Artillery.;;; --Attend a regular monthly meeting and drill of the Company this (Friday) Evening, Nov. 2d, at 7 ½ o' clock, at the City Hall.   By order of Capt.Cabell. no 2--1t James N.  Clark. 1st Serg't.;;; 

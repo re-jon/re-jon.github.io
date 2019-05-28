@@ -1,0 +1,4 @@
+#ID: 1860-11-01_article_111
+#TYPE: article
+#HEADER: Arrived.
+#TEXT: ;;; Arrived.;;; Schr. Mansion, Bromwell, Baltimore, lumber.;;; Jas. Gunn.;;;  Schr. Josephine, Waterbury, Albany, lathe, Dunlin &amp; Co.;;; Schr. William and John, Jones, Philadelphia, coal, Crenshaw &amp; Co.;;; Schr. Ambition, Philadelphia, coal, Crenshaw &amp; Co.;;; Schr. Emma Jane, Norfolk, oyster shells, J. C. Atlee.;;; Sailed.;;;  Brig Emery, (Br.,) King, Halifax, flour, Haxall., Crenshaw &amp; Co.;;; Schr. Wm. Severe, Brooks, Baltimore, mdze., W. D. Colquitt &amp; Co.;;; Schr. White Squall, Howe, down the river, light.;;; Schr. Georgianna, Langdon, down the river, light.;;; 

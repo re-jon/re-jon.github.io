@@ -1,0 +1,4 @@
+#ID: 1860-11-02_advert_42
+#TYPE: advert
+#HEADER: NO HEADER
+#TEXT: ;;; Meade &amp; Baker's "Elixir Calisaya Bark" is made in the most careful manner, from the best species of Peruvian Bark,(that from which Quinine is made;) is very palatable, and highly recommended by our own physicians, for loss of appetite and to prevent a relapse after chills and bilious fevers.;;; Prepared only by;;; Meade &amp; Baker, Pharmaceutists,;;; 186 Main st., corner above Post Office.;;; 
